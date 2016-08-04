@@ -1,0 +1,36 @@
+_repo: Running-a-Thousand-Miles-for-Freedom--13-Or-The-Escape-of-William-and-Ellen-Craft-from-Slavery_585
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Craft, William
+    gutenberg_agent_id: '302'
+    url: http://www.gutenberg.org/2009/agents/302
+  - agent_name: Craft, Ellen
+    gutenberg_agent_id: '303'
+    url: http://www.gutenberg.org/2009/agents/303
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Craft
+description: Ellen Craft and William Craft were slaves from Macon, Georgia who escaped
+  to the North in December 1848 by traveling openly by train and steamboat, arriving
+  in Philadelphia on Christmas Day. She posed as a white male planter and he as her
+  personal servant. Their daring escape was widely publicized, making them among the
+  most famous of fugitive slaves.
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- Georgia -- Biography'
+- !lcsh 'Craft, Ellen'
+- !lcsh 'Craft, William'
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Slaves'' writings, American'
+- GITenberg
+title: "Running a Thousand Miles for Freedom\r\nOr, The Escape of William and Ellen\
+  \ Craft from Slavery"
+url: http://www.gutenberg.org/ebooks/585
